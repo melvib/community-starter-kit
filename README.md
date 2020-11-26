@@ -1,14 +1,11 @@
-# welcome bot: A Probot App
 
 a well worded description
 
-## What it does
 
 a well worded list of features
 
-## Getting started
 
-1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
+
 
 - Pull requests: Read & Write
 - Issues: Read & Write
