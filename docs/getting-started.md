@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-documentation
+documentation that is in fact well worded.
